@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Forecasting — Linear vs Ridge vs Lasso
+# 🛒 Walmart Sales Forecasting — Supervised Machine Learning (CDSD · Jedha · Bloc 3)
 
 ## Overview
 This project addresses **weekly sales forecasting** across Walmart stores using linear models with and without regularization. The objective is to benchmark **Linear Regression**, **Ridge (L2)**, and **Lasso (L1)** in terms of predictive performance, stability, and feature interpretability.
