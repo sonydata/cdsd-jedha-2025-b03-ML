@@ -5,8 +5,7 @@ This project tackles the challenge of predicting **whether a user will convert**
 
 The project compares a variety of models including **Logistic Regression**, **Random Forest**, **XGBoost**, **SGDClassifier**, and **Multi-Layer Perceptron (MLP)**. The best-performing models were combined via a **VotingClassifier** with soft voting, and the decision threshold was tuned to maximize F1-score on imbalanced data.
 
-🔗 **Colab Notebook**: [Open in Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1n1MrT0vhJf1kBOgBWFmOmPVVjs8XyjBA?usp=sharing 
-))
+🔗 **Colab Notebook**: [Open in Colab](https://colab.research.google.com/drive/1n1MrT0vhJf1kBOgBWFmOmPVVjs8XyjBA?usp=sharing)
 
 ## Methodology
 
